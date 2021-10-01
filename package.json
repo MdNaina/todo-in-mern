@@ -1,0 +1,25 @@
+{
+  "name": "todo-in-mern",
+  "version": "1.0.0",
+  "description": "i'm just learn mern stack by building todo web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdNaina/todo-in-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MdNaina/todo-in-mern/issues"
+  },
+  "homepage": "https://github.com/MdNaina/todo-in-mern#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.11"
+  }
+}
